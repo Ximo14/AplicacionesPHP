@@ -1,5 +1,6 @@
 <?php
 
-echo "Actividad entornos" ;
+$nombre="Ximo";
+echo "Actividad entornos". $nombre;
 
 ?>
