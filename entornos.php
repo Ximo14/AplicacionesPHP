@@ -1,5 +1,5 @@
 <?php
 
-echo "Ejercicio Entornos" ;
+echo "Actividad entornos" ;
 
 ?>
