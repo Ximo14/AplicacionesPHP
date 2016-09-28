@@ -1,6 +1,6 @@
 <?php
 
 $nombre="Ximo";
-echo "Actividad entornos". $nombre;
+echo "Actividad entornos version 2". $nombre;
 
 ?>
